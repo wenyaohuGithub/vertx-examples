@@ -7,4 +7,4 @@ This example is a simple echo server
 
 To run:
 
-    vertx runmod io.vertx~simple-source-mod~1.0 testing testing
+    vertx runmod io.vertx~simple-source-mod~1.0 develop branch
